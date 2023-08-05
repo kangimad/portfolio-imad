@@ -5,7 +5,7 @@
                 <img src="{{ asset('assets/img/imad.jpg') }}" class="rounded-circle img-thumbnail" alt="kangimad"
                     width="300">
                 <h1 class="display-5">Muhammad Imaduddin</h1>
-                <p class="lead">Mahasiswa | Fullstack Developer | Santri</p>
+                <p class="lead">Mahasiswa | Software Engineer | Santri</p>
             </div>
         </div>
     </div>
